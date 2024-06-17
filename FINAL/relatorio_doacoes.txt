@@ -1,0 +1,14 @@
+Relatorio de Doacoes:
+
+1. Tipo: DINHEIRO
+   Quantidade: 342
+   Data: 17/06/2024
+   Doador: ANA CAROLINA
+   Contato: 31 999999999
+
+2. Tipo: DINHEIRO
+   Quantidade: 287
+   Data: 17/06/2024
+   Doador: LARA 
+   Contato: lara.oliveira@gmail.com
+
