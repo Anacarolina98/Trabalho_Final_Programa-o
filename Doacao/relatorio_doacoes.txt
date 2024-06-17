@@ -1,3 +1,0 @@
-Relatorio de Doacoes:
-Tipo: Alimentos, Quantidade: 8, Data: 12/06/2024, Doador: Joao, Contato: joao@example.com
-Tipo: Roupas, Quantidade: 56, Data: 12/06/2024, Doador: Maria, Contato: maria@example.com
